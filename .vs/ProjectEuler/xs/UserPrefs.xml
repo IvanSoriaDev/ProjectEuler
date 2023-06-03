@@ -1,9 +1,13 @@
 ﻿<Properties StartupConfiguration="{5A3D1B3A-6B3C-4524-AC64-1912AB5CE4AB}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ProjectEuler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="ProjectEuler/Problem5.cs">
     <Files>
-      <File FileName="ProjectEuler/Program.cs" Line="7" Column="9" />
+      <File FileName="ProjectEuler/Program.cs" />
       <File FileName="ProjectEuler/Problem5.cs" Line="9" Column="32" />
     </Files>
     <Pads>
@@ -18,9 +22,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.ProjectEuler PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
