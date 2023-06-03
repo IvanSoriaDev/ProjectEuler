@@ -1,0 +1,15 @@
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/bin/Debug/net7.0/ProjectEuler
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/bin/Debug/net7.0/ProjectEuler.deps.json
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/bin/Debug/net7.0/ProjectEuler.runtimeconfig.json
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/bin/Debug/net7.0/ProjectEuler.dll
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/bin/Debug/net7.0/ProjectEuler.pdb
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/obj/Debug/net7.0/ProjectEuler.csproj.AssemblyReference.cache
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/obj/Debug/net7.0/ProjectEuler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/obj/Debug/net7.0/ProjectEuler.AssemblyInfoInputs.cache
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/obj/Debug/net7.0/ProjectEuler.AssemblyInfo.cs
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/obj/Debug/net7.0/ProjectEuler.csproj.CoreCompileInputs.cache
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/obj/Debug/net7.0/ProjectEuler.dll
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/obj/Debug/net7.0/refint/ProjectEuler.dll
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/obj/Debug/net7.0/ProjectEuler.pdb
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/obj/Debug/net7.0/ProjectEuler.genruntimeconfig.cache
+/Users/ivansoria/code/ProjectEuler/ProjectEuler/obj/Debug/net7.0/ref/ProjectEuler.dll
